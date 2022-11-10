@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    <url>
+        <loc>/Cart.html</loc>
+    </url>
+    <url>
+        <loc>/Centers.html</loc>
+    </url>
+    <url>
+        <loc>/Class.html</loc>
+    </url>
+    <url>
+        <loc>/Football.html</loc>
+    </url>
+    <url>
+        <loc>/Gallery.html</loc>
+    </url>
+    <url>
+        <loc>/</loc>
+    </url>
+    <url>
+        <loc>/Order Success.html</loc>
+    </url>
+    <url>
+        <loc>/Sports.html</loc>
+    </url>
+    <url>
+        <loc>/Sports Wizard.html</loc>
+    </url>
+</urlset>
